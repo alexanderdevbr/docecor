@@ -12,16 +12,16 @@
 }
 
 hr.claro {
-    color: #b3a9a1;
-    background-color: #b3a9a1;
+    color: #fff6ef;
+    background-color: #fff6ef;
     height: 1px;
     width: 50px;
     margin-top: 90px;
 }
 
 hr.escuro {
-    color: #353130;
-    background-color: #353130;
+    color: #b76e79;
+    background-color: #b76e79;
     height: 1px;
     width: 50px;
     margin-top: 90px;
@@ -38,7 +38,7 @@ a:hover { color: #ffffff; }
 
 /*Seção Nosso Cardárpio Pagina Inicial*/
 div#image1{
-    background-image: url(../img/prato-1.jpg);
+    background-image: url(../img/cardapio.png);
     background-repeat: no-repeat;
     background-position: center;
 	background-size: cover;
@@ -51,7 +51,7 @@ div#image1{
 }
 
 .btn-outline-dark:hover{
-    background-color: #353130;
+    background-color: #b76e79;
 }
 
 /*Seção História*/
@@ -122,7 +122,7 @@ div#textocardapiobanner{
 
 /*Título*/
 div#titutloalmocooujantar{
-    color: #e3e2e0;
+    color: #b76e79;
     position: relative;
     height: 60px;
 }
@@ -136,7 +136,7 @@ div#titutloalmocooujantar2{
 
 /*Pratos*/
 div#pratodiv{
-    color: #353130;
+    color: #d96074;
     position: relative;
     margin-top: 15px;
     margin-right: 12px;
@@ -162,5 +162,38 @@ div#prato1{
     height: 200px;
 }
 
+h4.claro{
+    color: #fff6ef;
+}
+h4.escuro{
+    color: #d96074;
+}
+h6 {
+    color: #fff6ef; 
+    margin-bottom: 90px;
+}
 
+.cabecalho-escuro{
+    background-color: #d96074; 
+    color: #fff6ef;
+}
+a {
+    color: #fff6ef;
+}
+h1 {
+    color: #fff6ef;
+}
+
+.fundopag {
+    background-color: #f8ded7;
+}
+.fundosub {
+    background-color: #fff6ef;
+}
+.fundolinhatitulo {
+    background-color: #b76e79;
+}
+h5 {
+    color: #fff6ef;
+}
 /**/
